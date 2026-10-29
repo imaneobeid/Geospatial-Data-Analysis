@@ -1,0 +1,50 @@
+State,Total_Sales,Total_Profit,Record_Count,Sales_Rank,Profitability_Flag,Interpretation
+California,457687.6315,76381.38709999999,2001,1,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+New York,310876.271,74038.5486,1128,2,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+Texas,170188.0458,-25729.3563,985,3,Zero or negative profit,Historical sales indicator only; store coverage and local demand are unknown.
+Washington,138641.27,33402.6517,506,4,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+Pennsylvania,116511.914,-15559.9603,587,5,Zero or negative profit,Historical sales indicator only; store coverage and local demand are unknown.
+Florida,89473.708,-3399.3017000000004,383,6,Zero or negative profit,Historical sales indicator only; store coverage and local demand are unknown.
+Illinois,80166.101,-12607.887,492,7,Zero or negative profit,Historical sales indicator only; store coverage and local demand are unknown.
+Ohio,78258.136,-16971.3766,469,8,Zero or negative profit,Historical sales indicator only; store coverage and local demand are unknown.
+Michigan,76269.614,24463.1876,255,9,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+Virginia,70636.72,18597.9504,224,10,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+North Carolina,55603.164,-7490.9122,249,11,Zero or negative profit,Historical sales indicator only; store coverage and local demand are unknown.
+Indiana,53555.36,18382.9363,149,12,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+Georgia,49095.84,16250.0433,184,13,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+Kentucky,36591.75,11199.6966,139,14,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+New Jersey,35764.312,9772.9138,130,15,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+Arizona,35282.001,-3427.9246,224,16,Zero or negative profit,Historical sales indicator only; store coverage and local demand are unknown.
+Wisconsin,32114.61,8401.8004,110,17,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+Colorado,32108.118,-6527.8579,182,18,Zero or negative profit,Historical sales indicator only; store coverage and local demand are unknown.
+Tennessee,30661.873,-5341.6936,183,19,Zero or negative profit,Historical sales indicator only; store coverage and local demand are unknown.
+Minnesota,29863.15,10823.1874,89,20,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+Massachusetts,28634.434,6785.5016000000005,135,21,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+Delaware,27451.069,9977.3748,96,22,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+Maryland,23705.523,7031.1788,105,23,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+Rhode Island,22627.956,7285.6293000000005,56,24,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+Missouri,22205.15,6436.2105,66,25,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+Oklahoma,19683.39,4853.956,66,26,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+Alabama,19510.64,5786.8253,61,27,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+Oregon,17431.15,-1190.4705,124,28,Zero or negative profit,Historical sales indicator only; store coverage and local demand are unknown.
+Nevada,16729.102,3316.7659,39,29,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+Connecticut,13384.357,3511.4918,82,30,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+Arkansas,11678.13,4008.6871,60,31,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+Utah,11220.056,2546.5335,53,32,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+Mississippi,10771.34,3172.9762,53,33,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+Louisiana,9217.03,2196.1023,42,34,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+Vermont,8929.369999999999,2244.9782999999998,11,35,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+South Carolina,8481.71,1769.0566,42,36,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+Nebraska,7464.93,2037.0942000000002,38,37,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+New Hampshire,7292.524,1706.5028,27,38,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+Montana,5589.352,1833.3285,15,39,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+New Mexico,4783.522,1157.1161,37,40,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+Iowa,4579.76,1183.8119,30,41,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+Idaho,4382.486,826.7231,21,42,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+Kansas,2914.31,836.4435,24,43,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+District of Columbia,2865.02,1059.5892999999999,10,44,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+Wyoming,1603.136,100.196,1,45,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+South Dakota,1315.56,394.8283,12,46,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+Maine,1270.53,454.4862,8,47,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+West Virginia,1209.824,185.9216,4,48,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
+North Dakota,919.91,230.1497,7,49,Positive profit,Historical sales indicator only; store coverage and local demand are unknown.
